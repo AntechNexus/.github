@@ -55,7 +55,7 @@
 
 ## 👥 Development Team
 
-**Team**: Antech Antech Async*  
+**Team**: **Antech Antech Async**
 
 | Name | Learning Path | Github |
 |----- |---------------|--------| 
