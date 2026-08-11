@@ -58,12 +58,13 @@
 **Team ID**: CC25-XXXXX *(fill with Team ID)*  
 **Theme**: *Productivity & Tooling*
 
-| ID | Name | Learning Path | Github |
-|----|----- |---------------|--------| 
-| MC222D5Y1282 | **Refa Muhammad** | Tech Lead & Machine Learning Engineer | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefaMuhammad) |
-| XXXXXXXXXXXX | **[Team Member 2]** | Front-End Developer | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[Username]) |
-| XXXXXXXXXXXX | **[Team Member 3]** | Back-End Developer | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[Username]) |
-*(Add other team members here)*
+| Name | Learning Path | Github |
+|----- |---------------|--------| 
+| **Timothy Julian** | Project Manager | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/RefaMuhammad](https://github.com/tjjulian16)) |
+| **Refa Muhammad** | Tech Lead & Machine Learning Engineer | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefaMuhammad) |
+| **Fairiza Naghda Biwai** | Full Stack Developer | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zet-nbs) |
+| **Kamila Izzati** | Frontend Developer | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamilaizzati) |
+| **Ria Kristi** | Backend Developer | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riakrst) |
 
 ## 🙏 Acknowledgments
 
