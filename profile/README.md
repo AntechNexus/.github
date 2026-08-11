@@ -9,17 +9,17 @@
   <img src="https://komarev.com/ghpvc/?username=nexus-ai-org&style=flat-square&color=blue" alt="Profile views" />
 </div>
 
-## 📖 Deskripsi Proyek
+## 📖 Project Description
 
-**Nexus AI** adalah sistem manajemen produk komprehensif berbasis kecerdasan buatan (AI) yang dirancang untuk mempercepat alur kerja *Product Manager* dan tim *engineering*. Nexus memungkinkan pengguna untuk membuat, mengelola, dan mengotomatiskan pembuatan *Product Requirements Document* (PRD), serta menyediakan asisten AI (*Ask Nexus*) yang dapat menjawab pertanyaan spesifik berdasarkan konteks dokumen proyek (RAG).
+**Nexus AI** is a comprehensive, artificial intelligence-powered product management system designed to accelerate the workflow of Product Managers and engineering teams. Nexus enables users to create, manage, and automate the generation of Product Requirements Documents (PRD), and provides an AI assistant (*Ask Nexus*) capable of answering specific questions based on the context of project documents using Retrieval-Augmented Generation (RAG).
 
-### 🎯 Tujuan Utama
-- Mempercepat siklus pembuatan dokumen spesifikasi produk (PRD).
-- Menghilangkan miskomunikasi antar anggota tim (PM, Desainer, Engineer) melalui *Single Source of Truth*.
-- Memudahkan pencarian informasi spesifik di lautan dokumen proyek menggunakan *Retrieval-Augmented Generation* (RAG).
-- Menyediakan *workspace* terintegrasi (File, Folder, Tim) dalam satu *dashboard* modern.
+### 🎯 Core Objectives
+- Accelerate the creation cycle of product specification documents (PRDs).
+- Eliminate miscommunication between team members (PMs, Designers, Engineers) through a *Single Source of Truth*.
+- Facilitate the search for specific information within a sea of project documents using Retrieval-Augmented Generation (RAG).
+- Provide an integrated workspace (Files, Folders, Teams) in a single, modern dashboard.
 
-## 🏗️ Arsitektur Sistem
+## 🏗️ System Architecture
 
 ```
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
@@ -36,37 +36,37 @@
 └─────────────────┘    └──────────────────┘    └─────────────────┘
 ```
 
-## 🚀 Fitur Utama
+## 🚀 Key Features
 
-### 🤖 Fitur Kecerdasan Buatan (AI)
-- **AI PRD Generator**: Menghasilkan PRD lengkap dari *draft* dokumen acak atau *audio transcript* menggunakan Google Gemini.
-- **Ask Nexus (RAG Copilot)**: Fitur *chat* AI yang paham 100% tentang konteks proyek Anda. Bertanya tentang spesifikasi proyek? AI akan menjawab beserta sitasi ke dokumen aslinya!
-- **Clarification Wizard**: AI akan secara cerdas menanyakan detail-detail yang "kurang lengkap" dari *draft* Anda sebelum membuat PRD.
+### 🤖 Artificial Intelligence (AI) Features
+- **AI PRD Generator**: Generate comprehensive PRDs from random draft documents or audio transcripts using Google Gemini.
+- **Ask Nexus (RAG Copilot)**: An AI chat feature that understands 100% of your project's context. Ask about project specifications, and the AI will answer with direct citations to the original documents!
+- **Clarification Wizard**: The AI intelligently asks about "missing details" from your drafts before generating the final PRD.
 
 ### 💻 Frontend
-- **Interface Modern**: Dibangun dengan **React 18** dan **Tailwind CSS**.
-- **UX Interaktif**: Mendukung *Drag & Drop* untuk manajemen *file* dan direktori.
-- **Data Fetching Cepat**: Integrasi Axios yang sangat efisien untuk *seamless experience*.
+- **Modern Interface**: Built with **React 18** and **Tailwind CSS**.
+- **Interactive UX**: Supports Drag & Drop for file and directory management.
+- **Fast Data Fetching**: Highly efficient Axios integration for a seamless experience.
 
-### ⚙️ Backend & Infrastruktur
-- **Microservices-ish**: Pemisahan antara *Core Service* (Manajemen Proyek, Autentikasi) dan *AI Service* (Generasi AI, *Text Embedding*).
-- **Database Skalabel**: Menggunakan **MongoDB** untuk menyimpan *file metadata*, pengguna, tim, serta vektor *embedding* dokumen.
-- **Secure Authentication**: Sistem OTP, reset *password*, dan JWT.
+### ⚙️ Backend & Infrastructure
+- **Microservices-ish**: Separation between the Core Service (Project Management, Authentication) and the AI Service (AI Generation, Text Embedding).
+- **Scalable Database**: Uses **MongoDB** to store file metadata, users, teams, and document embedding vectors.
+- **Secure Authentication**: OTP system, password reset, and JWT.
 
-## 👥 Tim Pengembang
+## 👥 Development Team
 
-**Tim ID**: CC25-XXXXX *(isi dengan ID Tim)*  
-**Tema**: *Productivity & Tooling*
+**Team ID**: CC25-XXXXX *(fill with Team ID)*  
+**Theme**: *Productivity & Tooling*
 
-| ID | Nama | Learning Path | Github |
+| ID | Name | Learning Path | Github |
 |----|----- |---------------|--------| 
 | MC222D5Y1282 | **Refa Muhammad** | Machine Learning / Backend Engineer | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefaMuhammad) |
-| XXXXXXXXXXXX | **[Nama Anggota 2]** | Front-End Developer | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[Username]) |
-| XXXXXXXXXXXX | **[Nama Anggota 3]** | Back-End Developer | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[Username]) |
-*(Tambahkan anggota tim lainnya di sini)*
+| XXXXXXXXXXXX | **[Team Member 2]** | Front-End Developer | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[Username]) |
+| XXXXXXXXXXXX | **[Team Member 3]** | Back-End Developer | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[Username]) |
+*(Add other team members here)*
 
 ## 🙏 Acknowledgments
 
-- **Google Gemini API** untuk otak utama di balik fitur AI (*Ask Nexus* dan PRD *Generation*).
-- **React & Tailwind Community** untuk ekosistem *frontend* yang luar biasa.
-- **MongoDB** untuk solusi *database* yang fleksibel.
+- **Google Gemini API** for the main brain behind the AI features (Ask Nexus and PRD Generation).
+- **React & Tailwind Community** for the incredible frontend ecosystem.
+- **MongoDB** for the flexible database solution.
