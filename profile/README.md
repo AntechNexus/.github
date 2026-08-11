@@ -59,7 +59,7 @@
 
 | Name | Learning Path | Github |
 |----- |---------------|--------| 
-| **Timothy Julian** | Project Manager | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/RefaMuhammad](https://github.com/tjjulian16)) |
+| **Timothy Julian** | Project Manager | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/RefaMuhammad](https://github.com/tjjulian16) |
 | **Refa Muhammad** | Tech Lead & Machine Learning Engineer | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefaMuhammad) |
 | **Fairiza Naghda Biwai** | Full Stack Developer | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zet-nbs) |
 | **Kamila Izzati** | Frontend Developer | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamilaizzati) |
