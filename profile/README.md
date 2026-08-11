@@ -1,8 +1,7 @@
 # Nexus AI: The Intelligent Product Management Workspace
 
 <div align="center">
-  <!-- Ganti link gambar di bawah dengan logo asli Nexus AI jika ada -->
-  <img src="https://via.placeholder.com/200x200.png?text=Nexus+AI+Logo" alt="Nexus AI Logo" width="200" height="200">
+  <img src="assets/Logo-nexus.png" alt="Nexus AI Logo" width="200" height="200">
 </div>
 
 <!-- Profile Views -->
