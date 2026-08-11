@@ -60,7 +60,7 @@
 
 | ID | Name | Learning Path | Github |
 |----|----- |---------------|--------| 
-| MC222D5Y1282 | **Refa Muhammad** | Machine Learning / Backend Engineer | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefaMuhammad) |
+| MC222D5Y1282 | **Refa Muhammad** | Tech Lead & Machine Learning Engineer | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RefaMuhammad) |
 | XXXXXXXXXXXX | **[Team Member 2]** | Front-End Developer | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[Username]) |
 | XXXXXXXXXXXX | **[Team Member 3]** | Back-End Developer | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[Username]) |
 *(Add other team members here)*
