@@ -55,8 +55,7 @@
 
 ## 👥 Development Team
 
-**Team ID**: CC25-XXXXX *(fill with Team ID)*  
-**Theme**: *Productivity & Tooling*
+**Team**: Antech Antech Async*  
 
 | Name | Learning Path | Github |
 |----- |---------------|--------| 
